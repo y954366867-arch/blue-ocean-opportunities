@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env*
+data/
+*.tsbuildinfo
+reports/
+*.log
+cookies*.json
+*verification*.png
+samples/
+scripts/*
+!scripts/check-model.ts
+!scripts/verify-data.ts
+!scripts/regenerate-inspirations.ts
+!scripts/complete-pending-summaries.ts
