@@ -1,0 +1,4 @@
+:HL["/blue-ocean-opportunities/_next/static/css/ce485ba2e7e15932.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"9uX4J3lI_G71qRdepVOJX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
